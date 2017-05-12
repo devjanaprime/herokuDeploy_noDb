@@ -6,7 +6,7 @@ Node/Express w/o db
 
 Simply walk through of deploying a Node/Express project to Heroku that has no Database:
 
-[watch the video](vids/noDb.mov)
+[watch the video](https://drive.google.com/open?id=0B4chxONqp0heemVzZkFVUFcxbE0)
 
 - make sure you have [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed
 - log in to heroku.com
