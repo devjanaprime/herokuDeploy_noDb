@@ -11,7 +11,7 @@ Simply walk through of deploying a Node/Express project to Heroku that has no Da
 - make sure you have [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed
 - log in to heroku.com
 - from your dashboard create a new app & name it as you see fit
-- note: you can create apps from Heroku CLI, but they will be named randomly for you so I prefer to do this
+- *note: you can create apps from Heroku CLI, but they will be named randomly for you so I prefer to do this*
 - go to your terminal
 - browse to your project's folder
 - make sure your port settings are using ```process.env.PORT```
